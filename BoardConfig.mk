@@ -82,7 +82,7 @@ BOARD_INCLUDE_RECOVERY_DTBO := true
 
 # Platform: Bootloader
 TARGET_NO_BOOTLOADER := true
-TARGET_BOOTLOADER_BOARD_NAME := atoll
+TARGET_BOOTLOADER_BOARD_NAME := lahaina
 
 # Platform: Board
 TARGET_BOARD_PLATFORM := lahaina
